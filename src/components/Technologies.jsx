@@ -9,8 +9,7 @@ import { FaPhp } from "react-icons/fa";
 import { FaGitAlt } from "react-icons/fa";
 import { VscVscode } from "react-icons/vsc";
 import { FaLinux } from "react-icons/fa";
-import { easeIn, motion } from "motion/react"
-import { animate } from 'motion';
+import { motion } from "motion/react"
 
 const iconVariants = (duration) => ({
     initial: { y: -10 },
