@@ -1,12 +1,50 @@
-# React + Vite
+# Adam Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio built using **React**, **Tailwind CSS**, and several useful libraries to create a smooth, modern UI.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Built with **React** for a component-based architecture
+- Styled using **Tailwind CSS** for utility-first, responsive design
+- Smooth animations powered by **Framer Motion** for interactive UI effects
+- Icons provided by **React Icons** for clean, scalable vector icons
+- Responsive and mobile-friendly layout
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- Vite (build tool)
+
+## Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/AdamAbdallah1/adam-portfolio.git
+
+    Navigate to the project folder:
+
+cd adam-portfolio
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
+    npm run dev
+
+Deployment
+
+The project is ready to be deployed on platforms like Vercel or Netlify.
+
+To create a production build:
+
+npm run build
+
+The output will be in the dist folder, ready for deployment.
+
+Thank you for visiting my portfolio!
+
