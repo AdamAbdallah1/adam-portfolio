@@ -10,24 +10,28 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 export const PROJECTS = [
   {
     title: "Indigoflix Movies",
+    image: project1,
     description:
       "A modern, responsive movie discovery app built with React, Vite, and Tailwind CSS — search thousands of movies with real-time results powered by The Movie DB API.",
     technologies: ["HTML", "Tailwind CSS", "React", "API"],
   },
   {
     title: "React Calculator",
+    image: project2,
     description:
       "A simple calculator app built with React and Tailwind CSS.",
     technologies: ["HTML", "Tailwind CSS", "React"],
   },
   {
     title: "Coding Quiz App",
+    image: project3,
     description:
       "Coding Quiz App — A simple React web app to test your programming knowledge in Python, JavaScript, and General Coding concepts.",
     technologies: ["HTML", "Tailwind CSS", "React"],
   },
   {
     title: "Pump Plan",
+    image: project4,
     description:
       "Generate personalized workout plans with targeted exercises using JavaScript and the API Ninjas fitness API.",
     technologies: ["HTML", "CSS", "API", "JavaScript", "Firebase Auth"],
