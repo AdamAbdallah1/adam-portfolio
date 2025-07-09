@@ -14,6 +14,7 @@ export const PROJECTS = [
     description:
       "A modern, responsive movie discovery app built with React, Vite, and Tailwind CSS — search thousands of movies with real-time results powered by The Movie DB API.",
     technologies: ["HTML", "Tailwind CSS", "React", "API"],
+    link: "https://adamabdallah1.github.io/indigoflix-movies/",
   },
   {
     title: "React Calculator",
@@ -21,6 +22,7 @@ export const PROJECTS = [
     description:
       "A simple calculator app built with React and Tailwind CSS.",
     technologies: ["HTML", "Tailwind CSS", "React"],
+    link: "https://adamabdallah1.github.io/react-calculator/",
   },
   {
     title: "Coding Quiz App",
@@ -28,6 +30,7 @@ export const PROJECTS = [
     description:
       "Coding Quiz App — A simple React web app to test your programming knowledge in Python, JavaScript, and General Coding concepts.",
     technologies: ["HTML", "Tailwind CSS", "React"],
+    link: "https://adamabdallah1.github.io/coding-quiz-app/",
   },
   {
     title: "Pump Plan",
@@ -35,6 +38,7 @@ export const PROJECTS = [
     description:
       "Generate personalized workout plans with targeted exercises using JavaScript and the API Ninjas fitness API.",
     technologies: ["HTML", "CSS", "API", "JavaScript", "Firebase Auth"],
+    link: "https://adamabdallah1.github.io/pump-plan/",
   },
 ];
 
