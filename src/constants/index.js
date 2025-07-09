@@ -23,7 +23,6 @@ export const PROJECTS = [
   },
   {
     title: "Pump Plan",
-    image: project4,
     description:
       "Generate personalized workout plans with targeted exercises using JavaScript and the API Ninjas fitness API.",
     technologies: ["HTML", "CSS", "API", "JavaScript", "Firebase Auth"],
