@@ -27,12 +27,12 @@ function Hero() {
                     variants={container(0.5)}
                     initial="hidden"
                     animate="visible"
-                    className='bg-gradient-to-r from-pink-300 via-slate-500 to bg-purple-500 bg-clip-text text-3xl tracking-tight text-transparent'>Full Stack Developer</motion.span>
+                    className='bg-gradient-to-r from-pink-300 via-slate-500 to bg-purple-500 bg-clip-text text-3xl lg:text-4xl tracking-tight text-transparent'>Full Stack Developer</motion.span>
                     <motion.p
                     variants={container(1)}
                     initial="hidden"
                     animate="visible"
-                    className='my-2 max-w-xl py-6 font-light tracking-tighter'>{HERO_CONTENT}</motion.p>
+                    className='text-[20px] my-2 max-w-xl py-6 font-light tracking-tighter'>{HERO_CONTENT}</motion.p>
                 </div>
             </div>
             <div className='w-full lg:w-1/2 lg:p-8'>
@@ -41,7 +41,7 @@ function Hero() {
                     initial={{x: 100, opacity: 0}}
                     animate={{x: 0, opacity: 1}}
                     transition={{duration: 1, delay: 1.2}}
-                    className='lg:w-100 lg:mt-[-225px]  w-70 mt-[-130px]' src={profilepic} alt="Adam Abdallah Profile Pic" />
+                    className='lg:w-126 lg:mt-[-225px]  w-100 mt-[-130px]' src={profilepic} alt="Adam Abdallah Profile Pic" />
                 </div>
             </div>
         </div>
